@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "http://localhost:1338/parse",
+    "serverURL": "https://jb-howler-dev.herokuapp.com/parse",
     "appId": "hello",
     "masterKey": "world",
     "appName": "",
