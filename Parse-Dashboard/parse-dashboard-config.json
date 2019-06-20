@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "https://jb-howler-dev.herokuapp.com/parse",
-    "appId": "hello",
-    "masterKey": "world",
-    "appName": "",
+    "serverURL": "http://parse-server-jbdev.herokuapp.com/parse",
+    "appId": "myAppId",
+    "masterKey": "myMasterKey",
+    "appName": "parse-server-jbdev",
     "iconName": "",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
