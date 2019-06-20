@@ -8,5 +8,11 @@
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
   }],
+  "users": [
+    {
+      "user":"username",
+      "pass":"password"
+    }
+  ],
   "iconsFolder": "icons"
 }
